@@ -20,4 +20,4 @@ alert("This is code in js");
 * number 1
 * number 2
 
-[Google](URL "google.com")
+[Google](URL "www.google.com")
